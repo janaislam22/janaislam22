@@ -11,7 +11,6 @@
 
 - 🔭 I'm currently building **data pipelines & dashboards** that don't fall apart the moment real data touches them
 - 🧠 Obsessed with **ETL, data warehousing, and automation** — if it's repetitive, I probably automated it already
-- ⚡ Fun fact: I trust `pandas` more than I trust some humans
 - 🤖 Also building AI automations with **n8n** — teaching workflows to think so I don't have to
 - 🌱 Currently leveling up on **data warehouse design** (star schemas, snowflake schemas )
 - 💬 Ask me about: why your data is dirty, how to automate your inbox, or how many tabs I have open right now (don't)
@@ -40,10 +39,9 @@ I believe good data engineering isn't just about moving data from A to B — it'
 ### 📊 GitHub Stats (it doesn't lie, unlike my sleep schedule)
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=janaislam22&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=janaislam22&theme=tokyonight&hide_border=true" />
+  
+  <img height="165" src="https://streak-stats.demolab.com/?user=janaislam22&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ### 📫 Let's talk data (or memes about data)
@@ -53,5 +51,4 @@ I believe good data engineering isn't just about moving data from A to B — it'
   <a href="https://linkedin.com/in/jana-islam-602150376"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>"In data we trust — everyone else needs to bring a source." 😄</i></p>
 <p align="center">⭐ If my profile made you smile, a star on my repos makes my day (and my commit graph green, which is basically therapy).</p>
